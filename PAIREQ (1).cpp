@@ -1,3 +1,4 @@
+// This code finds the mode of any array and also changes  the value in minimum operations , 
 #include <iostream>
 using namespace std;
 
